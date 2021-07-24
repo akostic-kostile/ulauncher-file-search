@@ -32,7 +32,8 @@ TERMINAL_PARAMS = {
     'terminator': ['--working-directory'],
     'tilix': ['--working-directory'],
     'xfce-terminal': ['--working-directory'],
-    'kitty': ['--directory']
+    'kitty': ['--directory'],
+    'alacritty': ['--working-directory']
 }
 
 
